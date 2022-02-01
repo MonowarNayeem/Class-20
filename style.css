@@ -1,0 +1,28 @@
+/* Header section */
+.header{
+    background: #E3F2FD;
+    padding: 10px 0;
+}
+.logo img{
+    width: 40px;
+}
+/* Section 1 */
+.bg{
+    background: #E9ECEF;
+}
+/* Slider section */
+.carousel-item img{
+    height: 500px;
+    width: auto;
+}
+/* Section-4 */
+.bar-control .progress{
+    margin-bottom: 8px;
+}
+.accordion-border{
+    border: 2px solid #DDDDDD;
+}
+/* section 7 */
+.pagination-control{
+    text-align: right !important;
+}
